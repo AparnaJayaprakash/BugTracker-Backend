@@ -24,7 +24,6 @@ import com.bugtracker.model.BugRequest;
 import com.bugtracker.model.BugVO;
 import com.bugtracker.service.BugServiceIface;
 
-//Aneetaaaaaaaa love!!!
 
 @RestController
 @RequestMapping("api/v1/bugs")
